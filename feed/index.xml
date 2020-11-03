@@ -10,7 +10,7 @@
 <channel>
 	<title>my shit</title>
 	<atom:link href="http://darkydaff.github.io/feed/" rel="self" type="application/rss+xml" />
-	<link>http://darkydaff.github.io</link>
+	<link>http://darkydaff.github.io/</link>
 	<description>Just another WordPress site</description>
 	<lastBuildDate>Tue, 03 Nov 2020 19:03:38 +0000</lastBuildDate>
 	<language>en-US</language>
