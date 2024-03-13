@@ -16,6 +16,13 @@
   font-family: 'Kanit', sans-serif
 }
 
+.logo {
+  width: 300px;
+  height: 100px;
+  top: 0;
+  left: 0;
+}
+
 .grid {
   display: flex;
   flex-direction: column;
@@ -656,11 +663,15 @@ img:hover {
 
 .social, .copyright {
   justify-content: center;
+  display: inline-table;
   font-family: 'Kanit', sans-serif;  
   margin: 1rem;
+  text-align:center;
 }
 
 .social li {
+  justify-content: center;
+  list-style-type: none;
   display: inline-block;
   text-align: center;
 }
